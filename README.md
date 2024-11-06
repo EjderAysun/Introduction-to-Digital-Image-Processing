@@ -1,0 +1,1 @@
+This repo was created for CE 490 (Digital Image Processing) exercises. The main topic of the course is low-level digital image processing. README.md will be updated later in detail.
